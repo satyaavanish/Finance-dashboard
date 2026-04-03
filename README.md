@@ -7,7 +7,9 @@
 ![Recharts](https://img.shields.io/badge/Charts-Recharts-green)
 
 ---
+## 🌐 Live Demo
 
+[🔗 View Live Project](https://finance-dashboard-iota-kohl.vercel.app/)
 ## 📌 Overview
 
 This project is a **Finance Dashboard UI** built for the **Zorvyn FinTech Frontend Intern Assignment**.
